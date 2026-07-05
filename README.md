@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in Information Technology, Shah & Anchor Kutchi Engineering College (CGPA: 9.02) — 2022–2026
+- 🎓 B.Tech in Information Technology, Shah & Anchor Kutchi Engineering College (CGPA: 9.16) — 2022–2026
 - 💡 Detail-oriented full-stack developer who builds production-ready web applications — from role-based LMS platforms to NLP-powered tools
 - 🛠️ Comfortable across the stack: Django REST Framework & FastAPI on the backend, MySQL/MongoDB for data, and ML model integration for intelligence
 - 💼 Data Analytics Process Automation Intern at AICTE–EduSkills (Alteryx SparkED), where I built automated ETL pipelines and reporting workflows
