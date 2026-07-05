@@ -78,14 +78,6 @@
 | [📉 Churn Prediction Dashboard](https://github.com/Sahil3102/Churn_Prediction) | An interactive Streamlit app that predicts customer churn using a trained ML model, with SHAP-based explainability | Python, Streamlit, scikit-learn |
 | [🛒 Ecommerce Sales Dashboard](https://github.com/Sahil3102/Sales_Dashboard) | A Power BI dashboard analyzing sales performance by region, category, and payment mode | Power BI, DAX |
 
-> 📝 The LMS and Resume Analyzer aren't linked since I don't have their repo URLs — send them over and I'll wire up the links, or push them to GitHub if they aren't there yet.
 
-> 📌 Pin these on your profile: go to **Customize your pins** on your GitHub profile and select your top 4–6 repos so they show up right under your bio.
-
----
-
-
-
----
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and talk data, code, or new ideas!</i></p>
